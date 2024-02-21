@@ -40,7 +40,7 @@ To perform a study on Socket Programming
 
 ## Client –Server Operations
 
-Clients create a socket using socket() and connect to a server using connect().
+Clients create a socket using socket() and connect to a server using connect(). 
 After establishing a connection, clients can send and receive data using send() and recv().
 
 ## Use Cases of Socket Programming:
